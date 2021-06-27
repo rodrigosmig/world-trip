@@ -1,0 +1,248 @@
+{
+  "continents": [
+      {
+          "id": "europe", 
+          "title": "Europa",
+          "subtitle": "O continente mais antigo",
+          "image": "/img/continents/europe.png",
+          "banner": "/img/continents/banner/europe.png",
+          "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+          "countries": 55,
+          "languages": 60,
+          "hundreadCities": [
+              {
+                  "id": 1, 
+                  "name": "Londres", 
+                  "country": "Reino Unido", 
+                  "image": "/img/cities/london.png",
+                  "countryIcon": "/img/icons/countries/united_kingdom.png"
+              },
+              {
+                  "id": 2, 
+                  "name": "Paris", 
+                  "country": "França", 
+                  "image": "/img/cities/paris.png",
+                  "countryIcon": "/img/icons/countries/france.png"
+              },
+              {
+                  "id": 3, 
+                  "name": "Roma", 
+                  "country": "Itália", 
+                  "image": "/img/cities/rome.png",
+                  "countryIcon": "/img/icons/countries/italy.png"
+              },
+              {
+                  "id": 4, 
+                  "name": "Praga", 
+                  "country": "República Tcheca", 
+                  "image": "/img/cities/praga.png",
+                  "countryIcon": "/img/icons/countries/czech_republic.png"
+              },
+              {
+                  "id": 5, 
+                  "name": "Amsterdã", 
+                  "country": "Holanda", 
+                  "image": "/img/cities/amsterdam.png",
+                  "countryIcon": "/img/icons/countries/netherlands.png"
+              }
+          ]
+      },
+
+      {
+          "id": "south_america", 
+          "title": "América do Sul",
+          "subtitle": "Sapien diam eleifend interdum, velit",
+          "image": "/img/continents/south_america.jpg",
+          "banner": "/img/continents/banner/south_america.jpg",
+          "description": "A américa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+          "countries": 40,
+          "languages": 12,
+          "hundreadCities": [
+              {
+                  "id": 6, 
+                  "name": "Fortaleza", 
+                  "country": "Brasil", 
+                  "image": "/img/cities/fortaleza.jpg",
+                  "countryIcon": "/img/flags/brazil.svg"
+              },
+              {
+                  "id": 7, 
+                  "name": "Rio de Janeiro", 
+                  "country": "Brasil", 
+                  "image": "/img/cities/rio.jpg",
+                  "countryIcon": "/img/flags/brazil.svg"
+              },
+              {
+                  "id": 8, 
+                  "name": "Montevideu", 
+                  "country": "Uruguai", 
+                  "image": "/img/cities/montevideu.jpg",
+                  "countryIcon": "/img/flags/uruguai.svg"
+              },
+              {
+                  "id": 9, 
+                  "name": "Buenos Aires", 
+                  "country": "Argentina", 
+                  "image": "/img/cities/buenos_aires.jpg",
+                  "countryIcon": "/img/flags/argentina.svg"
+              }
+          ]
+      },
+      {
+        "id": "north_america", 
+        "title": "América do Norte",
+        "subtitle": "Lorem ipsum faucibus duis, proin",
+        "image": "/img/continents/north_america.jpg",
+        "banner": "/img/continents/banner/north_america.jpg",
+        "description": "A américa Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+        "countries": 40,
+        "languages": 12,
+        "hundreadCities": [
+            {
+                "id": 6, 
+                "name": "Chicago", 
+                "country": "Estados Unidos", 
+                "image": "/img/cities/chicago.jpg",
+                "countryIcon": "/img/flags/usa.svg"
+            },
+            {
+                "id": 7, 
+                "name": "Toronto", 
+                "country": "Canadá", 
+                "image": "/img/cities/toronto.jpg",
+                "countryIcon": "/img/flags/canada.svg"
+            },
+            {
+                "id": 8, 
+                "name": "Vancouver", 
+                "country": "Canadá", 
+                "image": "/img/cities/vancouver.jpg",
+                "countryIcon": "/img/flags/canada.svg"
+            },
+            {
+                "id": 9, 
+                "name": "Los Angeles", 
+                "country": "Estados Unidos", 
+                "image": "/img/cities/los_angeles.jpg",
+                "countryIcon": "/img/flags/usa.svg"
+            }
+        ]
+    },
+
+      {
+          "id": "asia", 
+          "title": "Ásia",
+          "subtitle": "Pulvinar neque metus tortor, condimentum",
+          "image": "/img/continents/asia.jpg",
+          "banner": "/img/continents/banner/asia.jpg",
+          "description": "A Ásia Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+          "countries": 80,
+          "languages": 95,
+          "hundreadCities": [
+              {
+                  "id": 10, 
+                  "name": "Tóquio", 
+                  "country": "Japão", 
+                  "image": "/img/cities/tokio.jpg",
+                  "countryIcon": "/img/flags/japan.svg"
+              },
+              {
+                  "id": 11, 
+                  "name": "Seul", 
+                  "country": "Coréia do sul", 
+                  "image": "/img/cities/seoul.jpg",
+                  "countryIcon": "/img/flags/south_korea.svg"
+              },
+              {
+                  "id": 12, 
+                  "name": "Hong Kong", 
+                  "country": "China", 
+                  "image": "/img/cities/hong_kong.jpg",
+                  "countryIcon": "/img/flags/china.svg"
+              },
+              {
+                  "id": 13, 
+                  "name": "Xangai", 
+                  "country": "China", 
+                  "image": "/img/cities/xangai.jpg",
+                  "countryIcon": "/img/flags/china.svg"
+              },
+              {
+                  "id": 14, 
+                  "name": "Nova Dehli", 
+                  "country": "India", 
+                  "image": "/img/cities/new_dehli.jpg",
+                  "countryIcon": "/img/flags/india.svg"
+              }
+          ]
+      },
+
+      {
+          "id": "africa", 
+          "title": "África",
+          "subtitle": "Leo semper sollicitudin pretium, mi",
+          "image": "/img/continents/africa.jpg",
+          "banner": "/img/continents/banner/africa.jpg",
+          "description": "A África Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+          "countries": 70,
+          "languages": 60,
+          "hundreadCities": [
+              {
+                  "id": 15, 
+                  "name": "Cidade do Cabo", 
+                  "country": "África do Sul", 
+                  "image": "/img/cities/cape_town.jpg",
+                  "countryIcon": "/img/flags/south_africa.svg"
+              },
+              {
+                  "id": 16, 
+                  "name": "Cairo", 
+                  "country": "Egito", 
+                  "image": "/img/cities/cairo.jpg",
+                  "countryIcon": "/img/flags/egypt.svg"
+              },
+              {
+                  "id": 17, 
+                  "name": "Johannesburgo", 
+                  "country": "África do Sul", 
+                  "image": "/img/cities/johannesburgo.jpg",
+                  "countryIcon": "/img/flags/south_africa.svg"
+              }
+          ]
+      },
+
+      {
+          "id": "oceania", 
+          "title": "Oceania",
+          "subtitle": "Fusce quisque malesuada a, nullam",
+          "image": "/img/continents/oceania.jpg",
+          "banner": "/img/continents/banner/oceania.jpg",
+          "description": "A Oceania Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et egestas elit, laoreet congue sem. Quisque sed blandit tellus, sagittis malesuada nisi. Fusce a mollis felis. Cras vel tellus molestie, sagittis leo ultrices, convallis velit. Donec nec convallis enim. Pellentesque tempus, sapien quis volutpat pulvinar, felis odio pellentesque urna, non suscipit velit mauris vitae lorem. Curabitur ut leo arcu. Fusce vel posuere arcu. Integer pellentesque vitae augue nec fermentum.",
+          "countries": 20,
+          "languages": 22,
+          "hundreadCities": [
+              {
+                  "id": 18, 
+                  "name": "Sidney", 
+                  "country": "Austrália", 
+                  "image": "/img/cities/sydney.jpg",
+                  "countryIcon": "/img/flags/australia.svg"
+              },
+              {
+                  "id": 19, 
+                  "name": "Camberra", 
+                  "country": "Austrália", 
+                  "image": "/img/cities/camberra.jpg",
+                  "countryIcon": "/img/flags/australia.svg"
+              },
+              {
+                  "id": 20, 
+                  "name": "Wellington", 
+                  "country": "Nova zelândia", 
+                  "image": "/img/cities/wellington.jpg",
+                  "countryIcon": "/img/flags/new_zealand.svg"
+              }
+          ]
+      }
+  ]
+}
